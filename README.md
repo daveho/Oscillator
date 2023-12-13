@@ -42,7 +42,7 @@ The boards were fabbed by [OSHPark](https://www.oshpark.com/).
 to OSHPark, no need to generate Gerbers, drill files, and whatnot.)
 
 The circuit will likely work with other crystal frequencies
-(I think you would just need to select loading capacitors appropriately
+(I think you would just need to select loading capacitors appropriately.)
 
 I'm not particularly skilled at surface mount soldering, but I had no
 trouble assembling these. I used drag soldering with lots of flux gel for
