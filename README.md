@@ -32,7 +32,7 @@ R2 | 1 kΩ 0805 resistor |
 C1 | 100 nF 0805 capacitor | decoupling for the 74HC04
 C2, C3 | 22 pF 0805 capacitor | loading caps
 U1 | 74HC04 in a TSSOP-14 package | inverters for oscillator, output
-Y1 | 10 MHz HC-49US low-profile crystal (parallel resonance) |
+Y1 | 10 MHz HC-49US low-profile crystal | parallel resonance (not series)
 J1–J4 | Male header pins | whatever kind you prefer, I like the round ones
 
 The resistors and capacitors are 0805 package (imperial measurement).
